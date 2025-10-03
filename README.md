@@ -1,9 +1,7 @@
-### Hi there, my name is Daniel but you can call me Dany 👋
-
-- 🌱 I’m currently developing my beginer coding skills
-- 👨‍🎓 At present I'm pursuing a cs deegre @ Tec de Monterrey :), currently in an exchange program @BU
-- 🔨 I'd say that I have an intermediate ability level using c++, python and JS. I also know some basic stuff of linux, html, css, sql and react. 
-- 💻 I’m looking to collaborate in proyects where I can learn all kind of new things
-- 💬 Ask me about anything you want, If I know about it, I will help you with pleasure :)
-- 📫 How to reach me: you can send me a dm to instagram: @danyy_arteaga
-
+# Hi, I'm Daniel (Dany) 👋 #
+🌱 Currently developing my engineering, problem solving, programming and collaboration/communication skills.
+👨‍🎓 Computer Science student at Tec de Monterrey, currently on an exchange program at Boston University.
+🔨 I feel comfortable working with C++, SQL, HTML, CSS, JavaScript(Specially React), Python and Linux systems.
+💻 I’m looking to collaborate on projects where I can learn and contribute.
+💬 Feel free to ask me anything; I'm happy to help if I can!
+📫 How to reach me: Instagram DM @danyy_arteaga. 
